@@ -3,7 +3,6 @@
 ## Description
 The BookHub is an engaging application for discovering books, managing your personal collection, sharing your thoughts, and connecting with fellow readers through both public and private book clubs.
 
-![screenshot](./assets/BookHubSS.png)
 
 ## Table of Contents
 - [Usage](#usage)
